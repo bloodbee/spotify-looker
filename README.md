@@ -15,6 +15,14 @@ npm install
 ```
 
 Update next.config.js file with your clientId and your clientSecret from your Spotify APP.
+```js
+// next.config.js
+env: {
+  clientId: "YOUR_CLIENT_ID",
+  clientSecret: "YOUR_CLIENT_SECRET"
+},
+```
+
 
 Run it
 ```bash
