@@ -10,7 +10,7 @@ First download sources here : [Source](https://github.com/bloodbee/veesual-spoti
 
 Install dependencies :
 ```bash
-cd veesual-spotify
+cd spotify-looker
 npm install
 ```
 
