@@ -1,6 +1,6 @@
-# Veesual-Spotify
+# Spotify-Looker
 
-Veesual-Spotify is a little project made with ReactJS, NextJS and TailwindCss.
+Spotify-Looker is a little project made with ReactJS, NextJS and TailwindCss.
 It uses the Spotify API to look for albums depending on the user query.
 It can also display more informations concerning a speicifc album.
 
